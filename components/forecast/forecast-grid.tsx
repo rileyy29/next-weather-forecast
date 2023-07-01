@@ -95,7 +95,7 @@ export default function ForecastGrid({
                             isSimplified={isSimplified} />)}
                 </div>
                 <ForecastGridDescriptor top={125}>Chance of precipitation</ForecastGridDescriptor>
-                <ForecastGridDescriptor top={180}>Temperature (°C)</ForecastGridDescriptor>
+                <ForecastGridDescriptor top={171}>Temperature (°C)</ForecastGridDescriptor>
                 {isSimplified ? null :
                     <Fragment>
                         <ForecastGridDescriptor top={245}>Feels like temperature (°C)</ForecastGridDescriptor>
