@@ -1,0 +1,1 @@
+An old exemplar/test project of a simple weather app within Next JS 13.4
