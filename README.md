@@ -1,1 +1,1 @@
-An old exemplar/test project of a simple weather app within Next JS 13.4
+An old test/example for a simple weather app converted into React from .NET
